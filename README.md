@@ -29,9 +29,11 @@
 <p align="center">
          <a href="https://github.com/destrada-2018259">
                   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrada-2018259&theme=tokyonight" />
-  </a>
+          </a>
+</p>
+
+<p align="center">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=" />
-             
 </p>
 
 <br>
