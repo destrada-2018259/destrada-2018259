@@ -22,15 +22,21 @@
 <a href="estradarojodaniel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+
 
 <br>
+## Github Activity 👾:
 
 <p align="center">
          <a href="https://github.com/destrada-2018259">
-                  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrada-2018259&theme=tokyonight" />
+                  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrada-2018259&theme=tokyonight" />
           </a>
 </p>
+
+<br>
+
+
+<hr>
 
 <p align="center">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=" />
