@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!--
-**destrada-2018259/destrada-2018259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
 
-Here are some ideas to get you started:
+<br/>
+        <hr/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills🛠️:
+<br/>
+<p align="center">
+        <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=js,html,css,react,angular,spring,java,cs,dotnet,go,nodejs,bootstrap,docker,git,github,gitlab,jquery,kubernetes,linux,maven,mongodb,mysql,postgres,postman,py,tailwind,ts,visualstudio,vite,vscode,express)](https://skillicons.dev" />
+        </a>
+</p>
+
+## How to reach me📫:
+<p align="center">
+        <a href="https://www.linkedin.com/in/daniel-rojo-dev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="estradarojodaniel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<br>
+
+<p align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=" />
+              <a href="https://github.com/destrada-2018259">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destrada-2018259&theme=tokyonight" />
+  </a>
+</p>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
