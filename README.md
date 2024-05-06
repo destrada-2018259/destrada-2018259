@@ -8,11 +8,20 @@
         <hr/>
 <br/>
 
+## Principal Stack🛠️:
+<br/>
+<p align="center">
+        <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,)](https://skillicons.dev" />
+        </a>
+</p>
+<br/>
+
 ## My Skills🛠️:
 <br/>
 <p align="center">
         <a href="https://skillicons.dev">
-                <img src="https://skillicons.dev/icons?i=js,html,css,react,angular,spring,java,cs,dotnet,go,nodejs,bootstrap,docker,git,github,gitlab,jquery,kubernetes,linux,maven,mongodb,mysql,postgres,postman,py,tailwind,ts,visualstudio,vite,vscode,express)](https://skillicons.dev" />
+                <img src="https://skillicons.dev/icons?i=js,html,css,angular,spring,java,cs,dotnet,go,bootstrap,docker,git,github,gitlab,jquery,kubernetes,linux,maven,mysql,postgres,postman,py,tailwind,ts,visualstudio,vite,vscode,)](https://skillicons.dev" />
         </a>
 </p>
 
